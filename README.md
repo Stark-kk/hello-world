@@ -1,2 +1,2 @@
-# hello-world
-ha
+# hello-worl
+我讨厌计算机
